@@ -2,7 +2,7 @@
 
 projeto criado para praticar versionamento com Git e GirHub.
 
-## tecnologia
+## Tecnologia
 
 HTML.
 
