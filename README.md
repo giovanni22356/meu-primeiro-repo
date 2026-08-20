@@ -2,10 +2,10 @@
 
 projeto criado para praticar versionamento com Git e GirHub.
 
-##tecnologia
+## tecnologia
 
 HTML.
 
-##Como executar 
+## Como executar 
 
 Abrir o arquvo index.html em qualquer navegador
