@@ -8,4 +8,7 @@ HTML.
 
 ## Como executar 
 
-Abrir o arquvo index.html em qualquer navegador
+Abrir o arquvo index.html em qualquer navegador.
+
+## Autoria
+Elaborado por  Giovanni Ignesti
