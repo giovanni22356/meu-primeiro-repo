@@ -1,6 +1,6 @@
 # Meu primeiro repositório
 
-projeto criado para praticar versionamento com Git e GirHub.
+projeto criado para praticar versionamento com Git e GitHub.
 
 ## Tecnologia
 
